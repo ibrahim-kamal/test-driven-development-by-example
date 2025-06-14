@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TDD.Money/1.0.0": {
+        "runtime": {
+          "TDD.Money.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TDD.Money/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
