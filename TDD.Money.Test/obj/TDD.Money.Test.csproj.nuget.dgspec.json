@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money.Test\\TDD.Money.Test.csproj": {}
+    "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money.Test\\TDD.Money.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money.Test\\TDD.Money.Test.csproj": {
+    "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money.Test\\TDD.Money.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money.Test\\TDD.Money.Test.csproj",
+        "projectUniqueName": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money.Test\\TDD.Money.Test.csproj",
         "projectName": "TDD.Money.Test",
-        "projectPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money.Test\\TDD.Money.Test.csproj",
+        "projectPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money.Test\\TDD.Money.Test.csproj",
         "packagesPath": "C:\\Users\\ibrahim kamal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money.Test\\obj\\",
+        "outputPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrahim kamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money\\TDD.Money.csproj": {
-                "projectPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money\\TDD.Money.csproj"
+              "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\TDD.Money.csproj": {
+                "projectPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\TDD.Money.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money\\TDD.Money.csproj": {
+    "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\TDD.Money.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money\\TDD.Money.csproj",
+        "projectUniqueName": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\TDD.Money.csproj",
         "projectName": "TDD.Money",
-        "projectPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money\\TDD.Money.csproj",
+        "projectPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\TDD.Money.csproj",
         "packagesPath": "C:\\Users\\ibrahim kamal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD.Money\\obj\\",
+        "outputPath": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibrahim kamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
