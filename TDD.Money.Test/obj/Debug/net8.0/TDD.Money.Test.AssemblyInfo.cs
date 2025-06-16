@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDD.Money.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd0412967feadbdcbb578cd29925967886848e7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eb985380ec37020df82a9259506c3a172228d5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDD.Money.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDD.Money.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

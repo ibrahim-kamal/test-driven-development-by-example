@@ -10,12 +10,12 @@
       "RelativeMoniker": "D:0:0:{15579924-BB07-4A1F-A62D-C5DF1FD5530A}|TDD.Money.csproj|solutionrelative:money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15579924-BB07-4A1F-A62D-C5DF1FD5530A}|TDD.Money.csproj|c:\\users\\ibrahim kamal\\source\\repos\\tdd\\tdd.money\\franc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15579924-BB07-4A1F-A62D-C5DF1FD5530A}|TDD.Money.csproj|solutionrelative:franc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15579924-BB07-4A1F-A62D-C5DF1FD5530A}|TDD.Money.csproj|c:\\users\\ibrahim kamal\\source\\repos\\tdd\\tdd.money\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15579924-BB07-4A1F-A62D-C5DF1FD5530A}|TDD.Money.csproj|solutionrelative:dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15579924-BB07-4A1F-A62D-C5DF1FD5530A}|TDD.Money.csproj|c:\\users\\ibrahim kamal\\source\\repos\\tdd\\tdd.money\\franc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15579924-BB07-4A1F-A62D-C5DF1FD5530A}|TDD.Money.csproj|solutionrelative:franc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15579924-BB07-4A1F-A62D-C5DF1FD5530A}|TDD.Money.csproj|c:\\users\\ibrahim kamal\\source\\repos\\tdd\\tdd.money\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,13 +41,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Dollar.cs",
               "DocumentMoniker": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\Dollar.cs",
               "RelativeDocumentMoniker": "Dollar.cs",
               "ToolTip": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\Dollar.cs",
               "RelativeToolTip": "Dollar.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T20:09:20.564Z",
               "EditorCaption": ""
@@ -68,7 +68,7 @@
         },
         {
           "DockedWidth": 293,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -78,51 +78,11 @@
               "RelativeDocumentMoniker": "Money.cs",
               "ToolTip": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\Money.cs",
               "RelativeToolTip": "Money.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T17:40:54.302Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 234,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Franc.cs",
-              "DocumentMoniker": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\Franc.cs",
-              "RelativeDocumentMoniker": "Franc.cs",
-              "ToolTip": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\Franc.cs",
-              "RelativeToolTip": "Franc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:40:12.609Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "5029509e-222f-4ef4-a62a-e864f98520b5",
-        "Display": 0,
-        "X": 531,
-        "Y": 261,
-        "Width": 566,
-        "Height": 965,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -131,9 +91,28 @@
               "RelativeDocumentMoniker": "..\\TDD.Money.Test\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money.Test\\UnitTest1.cs",
               "RelativeToolTip": "..\\TDD.Money.Test\\UnitTest1.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwDMAAAAIAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T17:44:11.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Franc.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\Franc.cs",
+              "RelativeDocumentMoniker": "Franc.cs",
+              "ToolTip": "C:\\Users\\ibrahim kamal\\source\\repos\\TDD\\TDD.Money\\Franc.cs*",
+              "RelativeToolTip": "Franc.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:40:12.609Z",
               "EditorCaption": ""
             }
           ]
